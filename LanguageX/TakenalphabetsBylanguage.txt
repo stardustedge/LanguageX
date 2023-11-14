@@ -1,0 +1,43 @@
+Language and selected alphabets from them
+German{
+Ä Ö Ü
+}
+Russian{
+ Б Г Ж И Й Ч Э Ю Я
+}
+Korean{
+ㅏ ㅑ ㅓ ㅕ ㅗ ㅛ ㅜ ㅠ ㅡ ㄱ ㄴ ㄹ ㅂ ㅅ ㅈ ㅊ ㅋ ㅍ ㅎ
+}
+Turkish{
+ ĞÇ
+}
+Polish{
+ Ł
+}
+Hebrew{
+
+}
+Greek{
+ Γ Δ Θ Ξ Π Σ Φ Ψ Ω
+}
+Georgian{
+ იო
+}
+Malayalam{
+ഉ ഖ ഗ ഡ ഥ പ ഫ ല വ ഹ
+}
+Telugu{
+ద ధ న ఠ గ
+}
+Tamil{
+ஈ
+}
+egyption{
+ ☥
+}
+Burmese{
+ စ လ
+}
+Azerbaijani{
+Ə
+}
